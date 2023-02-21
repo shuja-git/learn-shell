@@ -1,3 +1,4 @@
 #!/bin/bash
-date=21-2-2023
+date=$(date)
+
 echo "data is ${date}"
