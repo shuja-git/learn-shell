@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "value of x " ${x}
 echo "first argument " $1
 echo "Second argument" $2
 echo "Script name" $0
