@@ -10,7 +10,6 @@ xyz() {
   a=100
 }
 # we can declare values in function and can be accessed from main program and vice-versa
-
+b=200
 xyz 123 456
 echo ${a}
-b=200
